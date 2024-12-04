@@ -5,7 +5,6 @@ docs/chapter1/llama.np/
 *.bin
 tokenizer.model
 nohup.out
-*.ipynb
 .DS_Store
 data/
 *.log
