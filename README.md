@@ -1,11 +1,15 @@
 # hands-on-llama
 
-LLaMA模型相关内容Step By Step。
+LLaMA模型相关内容Step By Step。这是一个按需更新的系列。
 
 ## Roadmap
 
-- 模型相关介绍
-- 推理相关优化
+- [x] 模型相关介绍
+- [x] 推理优化：KV Cache
+- [ ] 推理优化：Continous Batch
+- [ ] GEMM：GEMM基础
+- [ ] 推理优化：Paged Attention
+- [ ] 待确认……
 
 ## Shares
 
