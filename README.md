@@ -7,6 +7,10 @@ LLaMA模型相关内容Step By Step。
 - 模型相关介绍
 - 推理相关优化
 
+## Shares
+
+- LLaMA + KV Cache: https://meeting.tencent.com/crm/2MeMG3Ye88
+
 ## 参与贡献
 
 - 如果你想参与到项目中来欢迎查看项目的 [Issue]() 查看没有被分配的任务。
