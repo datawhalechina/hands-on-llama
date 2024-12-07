@@ -1,6 +1,8 @@
 # hands-on-llama
 
-LLaMA模型相关内容Step By Step。这是一个按需更新的系列。
+LLaMA模型相关内容Step By Step，移除PyTorch，限于NumPy或无依赖。
+
+这是一个按需更新的系列。
 
 ## Roadmap
 
