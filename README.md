@@ -29,7 +29,7 @@ LLaMA模型相关内容Step By Step，移除PyTorch，限于NumPy或无依赖。
 
 | 姓名 | 职责 | 简介 |
 | :----| :---- | :---- |
-| 长琴 | 项目负责人 |  |
+| [长琴](https://github.com/hscspring) | 项目负责人 |  |
 
 ## 关注我们
 
