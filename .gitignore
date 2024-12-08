@@ -1,5 +1,4 @@
 output*/
-docs/chapter1/llama.np/
 *.npz
 *.pt
 *.bin
