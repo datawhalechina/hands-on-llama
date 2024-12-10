@@ -10,6 +10,11 @@ LLaMA1、LLaMA2、LLaMA3在架构上几乎没有变化。
 - [LLaMA2](https://arxiv.org/abs/2307.09288)：**GQA**、longer context length
 - [LLaMA3](https://arxiv.org/abs/2407.21783)：同一序列不同Doc用AttentionMask区分、tiktoken+更大的词表（128k）、RoPE参数到500000
 
+代码：
+
+- LLaMA1+2：https://github.com/meta-llama/llama/blob/main/llama/model.py
+- LLaMA3：https://github.com/meta-llama/llama3/blob/main/llama/model.py
+
 ## Task
 
 1. 执行Notebook代码，并尝试修改其中参数，观察运行结果。
